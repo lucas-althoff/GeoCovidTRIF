@@ -26,13 +26,13 @@ Repositório para controle de versão do Sistema de Geoprocessamento de Informa�
 
 ### Bases de dados
 
-####Peru
+**Peru**
 > [Base de Dados Governamental Covid](https://www.diresaloreto.gob.pe/covid)
 
 Tabela de Qualidade de Dados
 
 
-####Brasil
+**Brasil**
 > [FVS e - Brasil](http://www.fvs.am.gov.br/transparenciacovid19_dadosepidemiologicos)
 
 > [Gov Amazônia](http://www.saude.am.gov.br/painel/corona/)
@@ -40,7 +40,7 @@ Tabela de Qualidade de Dados
 Tabela de Qualidade de Dados
 
 
-####Colômbia 
+**Colômbia** 
 > [Panél de Covid](https://app.powerbi.com/view?r=eyJrIjoiMjBjZWNlOGUtNzc1Yi00NjVkLTkyMjktOTJmMGU3YTU2Nzk4IiwidCI6ImE2MmQ2YzdiLTlmNTktNDQ2OS05MzU5LTM1MzcxNDc1OTRiYiIsImMiOjR9&pageName=ReportSection0c50ea3406afe4407370)
  
 Tabela de Qualidade de Dados Por Indicador
