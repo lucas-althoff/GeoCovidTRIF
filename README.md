@@ -20,7 +20,7 @@ Repositório para controle de versão do Sistema de Geoprocessamento de Informa�
 
 ### Controle de Versão do Sistema:
 
-[<img align="center" alt="System Version Control" width="1800px" src="https://github.com/lucas-althoff/GeoCovidTRIF/blob/main/ADM_GeoCovidTRIF.PNG" />]
+<img align="center" alt="System Version Control" width="1800px" src="https://github.com/lucas-althoff/GeoCovidTRIF/blob/main/ADM_GeoCovidTRIF.PNG" />
 
 <br />
 
